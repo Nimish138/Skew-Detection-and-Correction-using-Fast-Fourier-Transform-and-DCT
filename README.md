@@ -3,4 +3,5 @@ Skew angle estimation and correction of a scanned document is very important tas
 Skew in scanned document can be of two types: 
 1. Clock -wise skew (Positive skew)  
 2. Anti-clock wise skew (Negative skew)
+
 Several techniques have been used to do the analysis of skewed images such as Projection Profile, Centre of Gravity, Fourier Transform, Hough Transform and Geometric Text-line Modeling but the Fourier Transformation is the fastest and easiest to implement in comparison to all other existing techniques. 
